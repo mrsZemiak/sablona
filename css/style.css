@@ -34,7 +34,7 @@ main section:nth-child(even){
 }
 /*ŠTÝLY PRE HEADER*/
 header{
-  position: fixed;  
+  position: fixed;
   top:0;
   left:0;
   right:0;
