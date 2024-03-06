@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="" />
+    <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/datas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parts/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parts/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banners/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banners/banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banners/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/portfolio8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qna.html" beforeDir="false" afterPath="$PROJECT_DIR$/qna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +36,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,7 +66,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/cviko-streda-06-03-2024",
     "last_opened_file_path": "/Applications/XAMPP/xamppfiles/htdocs/sablona",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -45,6 +76,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/portfolio" />
+      <recent name="$PROJECT_DIR$/img/banners" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
