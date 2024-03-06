@@ -5,8 +5,7 @@
     <?php
                 include_once "functions.php";
                     generateSlides("img/banners");
-    echo '<a id="prev" class="prev">❮</a>';
-    echo '<a id="next" class="next">❯</a>';
+
         ?>
   </section>
   <section class="container">

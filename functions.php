@@ -27,8 +27,8 @@ function generateSlides($dir)
         echo '</div>';
         echo '</div>';
     }
-   /* echo '<a id="prev" class="prev">❮</a>';
-    echo '<a id="next" class="next">❯</a>';*/
+    echo '<a id="prev" class="prev">❮</a>';
+    echo '<a id="next" class="next">❯</a>';
 }
 
 function insertQnA()
