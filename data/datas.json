@@ -1,0 +1,26 @@
+{
+
+  "otazky": [
+    "Aké sú vaše skúsenosti s PHP?",
+    "Aký je váš obľúbený programovací jazyk?",
+    "Aké sú vaše ciele pre túto stránku?",
+    "Aké je najlepšie zviera?"
+  ],
+  "odpovede": [
+    "Mám základné znalosti PHP a skúsenosti, ktoré neviem použiť.",
+    "Môj obľúbený programovací jazyk bude určite PHP. ",
+    "Mojím cieľom je prejsť tento predmet.",
+    "Odpoveď bude vždy kačica."
+  ],
+
+
+  "text_banner":{
+  "banner1.jpg": "Prvý nadpis",
+  "banner2.jpg": "Druhý nadpis",
+  "banner3.jpg": "Tretí nadpis"
+
+
+
+  }
+
+}

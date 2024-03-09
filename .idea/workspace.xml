@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="" />
+    <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/data/datas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parts/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parts/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pridajPozdrav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banners/banner1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banners/banner2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/banners/banner3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qna.html" beforeDir="false" afterPath="$PROJECT_DIR$/qna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thankyou.html" beforeDir="false" afterPath="$PROJECT_DIR$/thankyou.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +29,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/cviko-streda-06-03-2024" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -34,7 +54,6 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Applications/XAMPP/xamppfiles/htdocs/sablona",
     "node.js.detected.package.eslint": "true",
@@ -45,6 +64,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/banners" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +88,7 @@
       <workItem from="1709054873812" duration="2190000" />
       <workItem from="1709105237076" duration="3757000" />
       <workItem from="1709582507100" duration="1385000" />
+      <workItem from="1709840670879" duration="6544000" />
     </task>
     <servers />
   </component>
