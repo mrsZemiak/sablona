@@ -5,21 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Moja stránka</title>
+    <link rel="stylesheet" href="css/form.css">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/accordion.css">
     <link rel="stylesheet" href="css/banner.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
   <header class="container main-header">
   <div class="logo-holder">
-    <a href="index.html"><img src="img/logo.png" height="40 "></a>
+    <a href="index.php"><img src="img/logo.png" height="40 "></a>
   </div>
   <nav class="main-nav">
     <ul class="main-menu" id="main-menu container">
-      <li><a href="index.html">Domov</a></li>
-      <li><a href="portfolio.html">Portfólio</a></li>
-      <li><a href="qna.html">Q&A</a></li>
+      <li><a href="index.php">Domov</a></li>
+      <li><a href="portfolio.php">Portfólio</a></li>
+      <li><a href="qna.php">Q&A</a></li>
       <li><a href="kontakt.html">Kontakt</a></li>
     </ul>
     <a class="hamburger" id="hamburger">
@@ -27,35 +27,42 @@
     </a>
   </nav>
 </header>
+
   <main>
     <section class="banner">
       <div class="container text-white">
-        <h1>Q&A</h1>
+        <h1>Kontakt</h1>
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="col-100 text-center">
+          <p><strong><em>Elit culpa id mollit irure sit. Ex ut et ea esse culpa officia ea incididunt elit velit veniam qui. Mollit deserunt culpa incididunt laborum commodo in culpa.</em
+          ></strong></p>
+        </div>
       </div>
     </section>
     <section class="container">
       <div class="row">
-        <div class="col-100 text-center">
-          <p><strong><em>Elit culpa id mollit irure sit. Ex ut et ea esse culpa officia ea incididunt elit velit veniam qui. Mollit deserunt culpa incididunt laborum commodo in culpa.</em></strong></p>
+        <div class="col-50"> 
+          <h3>Máte otázky?</h3>
+          <p>Incididunt mollit quis eiusmod tempor voluptate duis eu enim amet excepteur cupidatat magna velit. </p> 
+          <p>Velit id ad laborum velit commodo.</p>
+          <p>Consectetur laborum aliqua nulla anim cupidatat consectetur est veniam cupidatat.</p>
+        </div>
+        <div class="col-50 text-right">
+          <h3>Napíšte nám</h3>
+          <form id="contact" action="thankyou.html">
+            <input type="text" placeholder="Vaše meno" id ="meno"  required><br>
+            <input type="email" placeholder="Váš email" id="email" required><br>
+            <textarea name="" placeholder="Vaša správa" id="sprava"></textarea><br>
+            <input type="checkbox" name="" id="" required>
+            <label for=""> Súhlasím so spracovaním osobných údajov.</label><br>
+            <input type="submit" value="Odoslať">
+          </form>
         </div>
       </div>
     </section>
-      <section class="container">
-      <div class="accordion">
-        <div class="question">Otázka 1</div>
-        <div class="answer">Odpoveď 1</div>
-      </div>
-      <div class="accordion">
-        <div class="question">Otázka 2</div>
-        <div class="answer">Odpoveď 2</div>
-      </div>
-      <div class="accordion">
-        <div class="question">Otázka 3</div>
-        <div class="answer">Odpoveď 3</div>
-      </div>
-    </section>
-    </section>
-  </div>
   </main>
   <footer class="container bg-dark text-white">
     <div class="row">
@@ -85,7 +92,6 @@
       Created and designed by Lívia
     </div>
   </footer>
-<script src="js/accordion.js"></script>
-<script src="js/menu.js"></script>
+  <script src="js/menu.js"></script>
 </body>
 </html>
