@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="" />
+    <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+<<<<<<< Updated upstream
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "feature/cviko-piatok-15-3-2024",
+>>>>>>> Stashed changes
     "last_opened_file_path": "/Applications/XAMPP/xamppfiles/htdocs/sablona",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -45,6 +52,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< Updated upstream
+=======
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/portfolio" />
+      <recent name="$PROJECT_DIR$/img/banners" />
+    </key>
+  </component>
+>>>>>>> Stashed changes
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -64,6 +80,7 @@
       <workItem from="1709054873812" duration="2190000" />
       <workItem from="1709105237076" duration="3757000" />
       <workItem from="1709582507100" duration="1385000" />
+      <workItem from="1710693580376" duration="5581000" />
     </task>
     <servers />
   </component>
