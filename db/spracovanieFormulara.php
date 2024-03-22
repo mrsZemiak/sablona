@@ -26,9 +26,11 @@ $statement = $conn->prepare($sql);
 try {
     $insert = $statement->execute();
     header("Location: http://localhost/cvicnasablona/thankyou.php");
+    http_response_code(200);
     return $insert;
 } catch (\Exception $exception) {
     return false;
+    http_response_code(404);
 }
 // Zatvorenie pripojenia
 $conn = null;
