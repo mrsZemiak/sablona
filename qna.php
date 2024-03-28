@@ -19,11 +19,12 @@ include_once "parts/nav.php";
       </div>
     </section>
           <?php
-           include_once "functions.php";
-          insertQnA();
+           include_once "classes/QnA.php";
+           use otazkyodpovede\QnA;
+
+          $qna = new QnA();
+          $qna->insertQnA();
           ?>
-    </section>
-  </div>
   </main>
   <?php
 include_once "parts/footer.php"
