@@ -103,10 +103,7 @@ function preparePortfolio(int $numberOfRows = 2, int $numberOfCols = 4): array{
     }
     return $portfolio;
 }
-
-
-function getCSS()
-{
+function getCSS(){
     $jsonStr = file_get_contents("data/datas.json");
     $data = json_decode($jsonStr, true);
     $stranka = basename($_SERVER['REQUEST_URI']);
@@ -147,9 +144,6 @@ function finishPortfolio2() {
         echo '</div>';
     }
 }
-
-
-
 
 // po kliknuti na okienko sa dostaneme na URL, ktora je ulozena v jsone
 function finishPortfolio3() {

@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="102aa040-eeda-4a32-bd9a-7e879d0de3cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/Kontakt.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/QnA.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/spracovanieFormulara.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/spracovanieFormulara.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qna.php" beforeDir="false" afterPath="$PROJECT_DIR$/qna.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +36,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/cviko-utorok-26-3-2024",
+    "git-widget-placeholder": "feature/cviko-streda-27-3-2024",
     "last_opened_file_path": "/Applications/XAMPP/xamppfiles/htdocs/sablona",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -71,7 +65,7 @@
       <workItem from="1709054873812" duration="2190000" />
       <workItem from="1709105237076" duration="3757000" />
       <workItem from="1709582507100" duration="1385000" />
-      <workItem from="1711642877416" duration="521000" />
+      <workItem from="1711642877416" duration="610000" />
     </task>
     <servers />
   </component>
